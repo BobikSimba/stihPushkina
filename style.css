@@ -1,0 +1,45 @@
+# vod
+body {
+    font-family: sans-serif;
+    
+}
+header{
+    background-color: peru;
+    padding: 10px;
+}
+h1{
+    color: Purple;
+}
+footer{
+    background-color: purple;
+}
+footer p {
+    background-color: white;
+}
+nav a{
+    margin : 15px;
+    color : navy;
+    border : 2px solid black;
+    text-decoration :None;
+ }
+.center{
+    margin : 15px;
+    padding: 10px;
+    background-color : navy;
+    border : 2px solid black;
+    border-radius: 20px;
+    color: white;
+}
+.abc{
+    color:blue;
+
+}
+.navi{
+    margin : 15px;
+    color : navy;
+    border : 2px solid black;
+    text-decoration :None;
+ }
+h1{
+    text-transform: uppercase;
+}
